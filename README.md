@@ -1,5 +1,7 @@
 # alx-low_level_programming
 ![image](https://github.com/faithoputa/alx-low_level_programming/assets/41250552/e65a670d-9864-4346-9bc7-4c5d6ff07268)
+
+
 This repo is for the First sprint of the ALX Software Engineering Programme. During this sprint i will be learning and practicing low level programming languages. starting with C which is the primary language we are going to be using. Hence, this repo will contain all the solutions I submit for our daily tasks.
 
 Major Topics:
